@@ -1,8 +1,8 @@
 ## A no sticky terrain (CSPIM extension)
 
-###### Version 1.0
+###### Version 1.1
 
-* no sticky terrain
+* fixed the 2D in open zone and automation with the dash ramps
 
 
 

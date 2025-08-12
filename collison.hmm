@@ -1,0 +1,8 @@
+Code "Disable Wall Flip"
+//
+#lib "Player"
+//
+{
+    Player.State.Discard<Sonic.StateID>(Sonic.StateID.StateFallFlip);
+    Player.State.Discard<Sonic.StateID>(Sonic.StateID.StateFallSlope);
+}
